@@ -1,0 +1,20 @@
+typography:
+  font:
+    - "Liberation Serif"
+    - "Nimbus Roman"
+    # - "Times New Roman"
+  leading: 0.75em
+
+colors:
+  bg: "#e0e0e0"          # Light grey canvas background
+  text: "#03110d"        # Deep obsidian green body text
+  margin_bar: "#16302b"  # Spruce green for top & bottom margin bars
+  surface: "#ffffff"     # Clean white card surfaces
+  primary: "#a38560"     # Warm bronze / gold accent
+  secondary: "#390517"   # Deep wine accent
+  text_muted: "#9fa8a3"  # Muted secondary text (in header/footer bars)
+  border: "#c8cfcc"      # Card and table borders
+
+meta:
+  author: "@YourHandle"
+  topic: "FORMAL EPISTEMOLOGY"
